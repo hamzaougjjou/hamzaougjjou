@@ -1,5 +1,6 @@
-# 👋 مرحبًا، أنا حمزة
-# Full Stack web Developer | React | Laravel | Tailwind CSS
+# 👋 مرحبًا، أنا حمزة!
+
+## 🚀 مطور ويب | React | Laravel | Tailwind CSS
 
 أهلاً وسهلاً بكم في ملف التعريف الخاص بي على GitHub!
 
@@ -8,6 +9,15 @@
 
 
 
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzaougjjou)
+- 🌐 [Personal Website/Portfolio](https://www.ougjjou.com)
+
+
+## 📫 How to Reach Me
+- 📧 Email: contact@ougjjou.com
+- 💬 Discord: +212687186494
 
 
 <!-- # 👋 Hello, I'm [Your Name]
