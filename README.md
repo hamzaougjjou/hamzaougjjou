@@ -1,4 +1,17 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 مرحبًا، أنا حمزة!
+
+## 🚀 مطور ويب | React | Laravel | Tailwind CSS
+
+أهلاً وسهلاً بكم في ملف التعريف الخاص بي على GitHub!
+
+
+
+
+
+
+
+
+<!-- # 👋 Hello, I'm [Your Name]
 
 ## 🚀 Full-Stack Developer | React | PHP | Laravel | Tailwind CSS | HTML
 
@@ -60,4 +73,4 @@ I'm always excited to work on interesting projects and contribute to open-source
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/yourusername) -->
