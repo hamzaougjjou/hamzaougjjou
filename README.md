@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm HAMZA
 
 ## 🚀 Full-Stack Developer | React | PHP | Laravel | Tailwind CSS | HTML
 
