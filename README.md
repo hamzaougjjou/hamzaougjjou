@@ -1,10 +1,15 @@
-# 👋 مرحبًا، أنا حمزة!
+# 👋 Hello, I'm [Your Name]
 
-## 🚀 مطور ويب | React | Laravel | Tailwind CSS
-
-أهلاً وسهلاً بكم في ملف التعريف الخاص بي على GitHub!
+## 🚀 Full-Stack Developer | React | PHP | Laravel | Tailwind CSS | HTML
 
 
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** PHP, Laravel
+- **Database:** MySQL, SqlLite
+- **DevOps:** Git, GitHub Actions
+- **Other:** RESTful APIs, Webpack, Babel
 
 
 
