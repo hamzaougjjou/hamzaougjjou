@@ -1,7 +1,6 @@
 # 👋 مرحبًا، أنا حمزة!
-<center>
+
 #🚀 Full Stack web Developer | React | Laravel | Tailwind CSS
-</center>
 
 أهلاً وسهلاً بكم في ملف التعريف الخاص بي على GitHub!
 
